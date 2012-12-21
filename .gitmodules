@@ -1,0 +1,3 @@
+[submodule "submodule/landslide"]
+	path = submodule/landslide
+	url = git://github.com/adamzap/landslide.git
